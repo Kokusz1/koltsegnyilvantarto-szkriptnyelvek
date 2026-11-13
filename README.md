@@ -8,7 +8,7 @@ A tételek a helyi `adatok.json` fájlban tárolódnak.
 Modulok és használt függvények:
 - Tanult modul: `tkinter` – `Tk()`, `Button`/`ttk.Button`, `messagebox.showerror()`, `messagebox.askyesno()`; grafikus felület és eseménykezelés.
 - Bemutatandó modul: `datetime` – `date.today()`, `datetime.strptime()`, `timedelta()`; dátumkezelés és havi szűrés.
-- Saját modul: `lg_seged.py` – `osszesites_lg()`, `penz_formaz_lg()`, `adatok_betoltese_lg()`, `adatok_mentese_lg()`.
+- Saját modul: `lg_segedmodul.py` – `osszesites_lg()`, `penz_formaz_lg()`, `adatok_betoltese_lg()`, `adatok_mentese_lg()`.
 - Egyéb beépített modulok: `json` (`load`, `dump`), `dataclasses` (`dataclass`, `asdict`), `pathlib` (`Path`).
 
 Osztályok:
